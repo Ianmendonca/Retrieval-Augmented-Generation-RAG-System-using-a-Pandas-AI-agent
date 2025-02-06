@@ -1,4 +1,5 @@
 RAG system using a Pandas AI agent to analyse a given dataset
+Agentic RAG system to analyse the sentiment and explain the reaction
 reguirements : 
   - openAI key
   - dataset
